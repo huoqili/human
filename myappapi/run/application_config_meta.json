@@ -1,0 +1,333 @@
+{
+  "keys": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\config\\config.default.js",
+  "middleware": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\config\\config.default.js",
+  "adminauth": {
+    "enable": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\config\\config.default.js",
+    "match": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\config\\config.default.js"
+  },
+  "security": {
+    "csrf": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\config\\config.default.js",
+    "domainWhiteList": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\config\\config.default.js",
+    "protocolWhiteList": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg-security\\config\\config.default.js",
+    "defaultMiddleware": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg-security\\config\\config.default.js",
+    "xframe": {
+      "enable": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "hsts": {
+      "enable": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg-security\\config\\config.local.js",
+      "maxAge": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg-security\\config\\config.default.js",
+      "includeSubdomains": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "dta": {
+      "enable": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "noopen": {
+      "enable": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "nosniff": {
+      "enable": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "xssProtection": {
+      "enable": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "csp": {
+      "enable": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg-security\\config\\config.default.js",
+      "policy": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg-security\\config\\config.default.js",
+      "ipExceptionList": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg-security\\config\\config.default.js",
+      "checkAddress": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg-security\\config\\config.default.js"
+    }
+  },
+  "multipart": {
+    "fileSize": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\config\\config.default.js",
+    "mode": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\config\\config.default.js",
+    "fileExtensions": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\config\\config.default.js",
+    "autoFields": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg-multipart\\config\\config.default.js",
+    "defaultCharset": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fieldNameSize": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fieldSize": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fields": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg-multipart\\config\\config.default.js",
+    "files": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg-multipart\\config\\config.default.js",
+    "whitelist": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg-multipart\\config\\config.default.js",
+    "allowArrayField": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg-multipart\\config\\config.default.js",
+    "tmpdir": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg-multipart\\config\\config.default.js",
+    "cleanSchedule": {
+      "cron": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg-multipart\\config\\config.default.js",
+      "disable": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg-multipart\\config\\config.default.js"
+    }
+  },
+  "cors": {
+    "origin": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\config\\config.default.js",
+    "allowMethods": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\config\\config.default.js"
+  },
+  "jwt": {
+    "secret": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\config\\config.default.js",
+    "enable": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg-jwt\\config\\config.default.js"
+  },
+  "mysql": {
+    "client": {
+      "host": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\config\\config.default.js",
+      "port": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\config\\config.default.js",
+      "user": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\config\\config.default.js",
+      "password": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\config\\config.default.js",
+      "database": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\config\\config.default.js"
+    },
+    "app": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\config\\config.default.js"
+  },
+  "validate": {
+    "convert": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\config\\config.default.js",
+    "validateRoot": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\config\\config.default.js"
+  },
+  "sequelize": {
+    "dialect": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\config\\config.default.js",
+    "host": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\config\\config.default.js",
+    "port": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\config\\config.default.js",
+    "user": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\config\\config.default.js",
+    "password": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\config\\config.default.js",
+    "database": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\config\\config.default.js",
+    "username": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg-sequelize\\config\\config.default.js"
+  },
+  "code": {
+    "SUCCESS": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\config\\config.default.js",
+    "FAIL": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\config\\config.default.js"
+  },
+  "session": {
+    "maxAge": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg-session\\config\\config.default.js",
+    "key": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg-session\\config\\config.default.js",
+    "httpOnly": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg-session\\config\\config.default.js",
+    "encrypt": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg-session\\config\\config.default.js",
+    "logValue": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg-session\\config\\config.default.js"
+  },
+  "helper": {
+    "shtml": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg-security\\config\\config.default.js"
+  },
+  "jsonp": {
+    "limit": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg-jsonp\\config\\config.default.js",
+    "callback": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg-jsonp\\config\\config.default.js",
+    "csrf": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg-jsonp\\config\\config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg-onerror\\config\\config.default.js",
+    "appErrorFilter": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg-onerror\\config\\config.default.js",
+    "templatePath": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg-onerror\\config\\config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg-i18n\\config\\config.default.js",
+    "dirs": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg-i18n\\config\\config.default.js",
+    "queryField": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieField": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieDomain": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieMaxAge": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg-i18n\\config\\config.default.js"
+  },
+  "watcher": {
+    "type": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg-watcher\\config\\config.local.js",
+    "eventSources": {
+      "default": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg-watcher\\config\\config.default.js",
+      "development": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg-watcher\\config\\config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg-schedule\\config\\config.default.js",
+      "file": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg-schedule\\config\\config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg-schedule\\config\\config.default.js"
+  },
+  "development": {
+    "watchDirs": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg-development\\config\\config.default.js",
+    "ignoreDirs": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg-development\\config\\config.default.js",
+    "fastReady": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg-development\\config\\config.default.js",
+    "reloadOnDebug": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg-development\\config\\config.default.js",
+    "overrideDefault": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg-development\\config\\config.default.js",
+    "overrideIgnore": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg-development\\config\\config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "hourDelimiter": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "filesRotateBySize": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxFileSize": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxFiles": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "rotateDuration": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxDays": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg-logrotator\\config\\config.default.js"
+  },
+  "static": {
+    "prefix": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg-static\\config\\config.default.js",
+    "dir": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg-static\\config\\config.default.js",
+    "dynamic": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg-static\\config\\config.default.js",
+    "preload": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg-static\\config\\config.default.js",
+    "buffer": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg-static\\config\\config.default.js",
+    "maxFiles": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg-static\\config\\config.default.js"
+  },
+  "view": {
+    "root": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg-view\\config\\config.default.js",
+    "cache": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg-view\\config\\config.local.js",
+    "defaultExtension": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg-view\\config\\config.default.js",
+    "defaultViewEngine": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg-view\\config\\config.default.js",
+    "mapping": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg-view\\config\\config.default.js"
+  },
+  "env": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg\\config\\config.default.js",
+  "name": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg\\config\\config.default.js",
+  "cookies": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg\\config\\config.default.js",
+  "proxy": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg\\config\\config.default.js",
+  "maxIpsCount": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg\\config\\config.default.js",
+  "maxProxyCount": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg\\config\\config.default.js",
+  "protocolHeaders": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg\\config\\config.default.js",
+  "ipHeaders": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg\\config\\config.default.js",
+  "hostHeaders": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg\\config\\config.default.js",
+  "pkg": {
+    "name": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg\\config\\config.default.js",
+    "version": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg\\config\\config.default.js",
+    "description": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg\\config\\config.default.js",
+    "private": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg\\config\\config.default.js",
+    "egg": {
+      "declarations": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg\\config\\config.default.js"
+    },
+    "dependencies": {
+      "egg": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg\\config\\config.default.js",
+      "egg-cors": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg\\config\\config.default.js",
+      "egg-jwt": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg\\config\\config.default.js",
+      "egg-scripts": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg\\config\\config.default.js",
+      "egg-sequelize": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg\\config\\config.default.js",
+      "egg-validate": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg\\config\\config.default.js",
+      "mysql2": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg\\config\\config.default.js",
+      "stream-wormhole": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg\\config\\config.default.js",
+      "vuex-persistedstate": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg\\config\\config.default.js"
+    },
+    "devDependencies": {
+      "autod": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg\\config\\config.default.js",
+      "autod-egg": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg\\config\\config.default.js",
+      "egg-bin": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg\\config\\config.default.js",
+      "egg-ci": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg\\config\\config.default.js",
+      "egg-mock": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg\\config\\config.default.js",
+      "eslint": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg\\config\\config.default.js",
+      "eslint-config-egg": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg\\config\\config.default.js"
+    },
+    "engines": {
+      "node": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg\\config\\config.default.js"
+    },
+    "scripts": {
+      "start": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg\\config\\config.default.js",
+      "stop": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg\\config\\config.default.js",
+      "dev": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg\\config\\config.default.js",
+      "debug": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg\\config\\config.default.js",
+      "test": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg\\config\\config.default.js",
+      "test-local": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg\\config\\config.default.js",
+      "cov": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg\\config\\config.default.js",
+      "lint": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg\\config\\config.default.js",
+      "ci": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg\\config\\config.default.js",
+      "autod": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg\\config\\config.default.js"
+    },
+    "ci": {
+      "version": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg\\config\\config.default.js"
+    },
+    "repository": {
+      "type": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg\\config\\config.default.js",
+      "url": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg\\config\\config.default.js"
+    },
+    "author": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg\\config\\config.default.js",
+    "license": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg\\config\\config.default.js"
+  },
+  "baseDir": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg\\config\\config.default.js",
+  "HOME": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg\\config\\config.default.js",
+  "rundir": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg\\config\\config.default.js",
+  "dump": {
+    "ignore": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg\\config\\config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg\\config\\config.default.js",
+    "notFound": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg\\config\\config.default.js",
+    "sitefile": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg\\config\\config.default.js",
+    "middlewares": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg\\config\\config.default.js",
+    "httpClient": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg\\config\\config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg\\config\\config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg\\config\\config.default.js"
+  },
+  "bodyParser": {
+    "enable": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg\\config\\config.default.js",
+    "encoding": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg\\config\\config.default.js",
+    "formLimit": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg\\config\\config.default.js",
+    "jsonLimit": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg\\config\\config.default.js",
+    "textLimit": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg\\config\\config.default.js",
+    "strict": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg\\config\\config.default.js",
+    "queryString": {
+      "arrayLimit": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg\\config\\config.default.js",
+      "depth": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg\\config\\config.default.js",
+      "parameterLimit": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg\\config\\config.default.js"
+    },
+    "onerror": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg\\config\\config.default.js"
+  },
+  "logger": {
+    "dir": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg\\config\\config.default.js",
+    "encoding": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg\\config\\config.default.js",
+    "env": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg\\config\\config.default.js",
+    "level": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg\\config\\config.default.js",
+    "consoleLevel": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg\\config\\config.default.js",
+    "disableConsoleAfterReady": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg\\config\\config.default.js",
+    "outputJSON": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg\\config\\config.default.js",
+    "buffer": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg\\config\\config.default.js",
+    "appLogName": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg\\config\\config.default.js",
+    "coreLogName": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg\\config\\config.default.js",
+    "agentLogName": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg\\config\\config.default.js",
+    "errorLogName": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg\\config\\config.default.js",
+    "coreLogger": {
+      "consoleLevel": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg\\config\\config.local.js"
+    },
+    "allowDebugAtProd": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg\\config\\config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg\\config\\config.default.js",
+    "dnsCacheLookupInterval": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg\\config\\config.default.js",
+    "dnsCacheMaxLength": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg\\config\\config.default.js",
+    "request": {
+      "timeout": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg\\config\\config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg\\config\\config.default.js",
+      "freeSocketTimeout": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg\\config\\config.default.js",
+      "maxSockets": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg\\config\\config.default.js",
+      "maxFreeSockets": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg\\config\\config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg\\config\\config.default.js",
+      "freeSocketTimeout": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg\\config\\config.default.js",
+      "maxSockets": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg\\config\\config.default.js",
+      "maxFreeSockets": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg\\config\\config.default.js",
+    "logging": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg\\config\\config.default.js"
+  },
+  "coreMiddleware": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg\\config\\config.default.js",
+  "workerStartTimeout": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg\\config\\config.default.js",
+  "serverTimeout": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg\\config\\config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg\\config\\config.default.js",
+      "port": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg\\config\\config.default.js",
+      "hostname": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg\\config\\config.default.js",
+    "responseTimeout": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg\\config\\config.default.js"
+  },
+  "onClientError": "D:\\项目\\专项训练\\人事管理系统\\human\\myappapi\\node_modules\\egg\\config\\config.default.js"
+}

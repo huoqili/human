@@ -1,0 +1,538 @@
+2021-11-10 12:34:11,757 ERROR 11344 nodejs.ClusterClientNoResponseError: client no response in 1830699ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "ClusterClientNoResponseError"
+pid: 11344
+hostname: WIN-IAS5DFHMUN8
+
+2021-11-10 12:39:23,976 ERROR 11344 nodejs.ClusterClientNoResponseError: client no response in 272202ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "ClusterClientNoResponseError"
+pid: 11344
+hostname: WIN-IAS5DFHMUN8
+
+2021-11-10 14:20:38,457 ERROR 18220 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (node:internal/fs/watchers:204:21)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\Users\\Administrator\\Desktop\\VUE3\\myappapi\\config\\serve"
+name: "EPERMError"
+pid: 18220
+hostname: WIN-IAS5DFHMUN8
+
+2021-11-10 14:23:57,593 ERROR 8380 [-/::1/-/39ms POST /admin/login] nodejs.SequelizeDatabaseError: Table 'humanresources.admins' doesn't exist
+    at Query.formatError (C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\sequelize\lib\dialects\mysql\query.js:265:16)
+    at Query.run (C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\sequelize\lib\dialects\mysql\query.js:77:18)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\sequelize\lib\sequelize.js:619:16
+    at async MySQLQueryInterface.select (C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\sequelize\lib\dialects\abstract\query-interface.js:953:12)
+    at async Function.findAll (C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\sequelize\lib\model.js:1752:21)
+    at async Function.findOne (C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\sequelize\lib\model.js:1916:12)
+    at async LoginService.find (C:\Users\Administrator\Desktop\VUE3\myappapi\app\service\login.js:8:22)
+    at async LoginController.create (C:\Users\Administrator\Desktop\VUE3\myappapi\app\controller\admin\login.js:27:24)
+    at async index (C:\Users\Administrator\Desktop\VUE3\myappapi\app\middleware\adminauth.js:10:13)
+name: "SequelizeDatabaseError"
+parent: {"code":"ER_NO_SUCH_TABLE","errno":1146,"sqlState":"42S02","sqlMessage":"Table 'humanresources.admins' doesn't exist","sql":"SELECT `id`, `username`, `password` FROM `admins` AS `Admin` WHERE `Admin`.`username` = 'admin' LIMIT 1;"}
+original: {"code":"ER_NO_SUCH_TABLE","errno":1146,"sqlState":"42S02","sqlMessage":"Table 'humanresources.admins' doesn't exist","sql":"SELECT `id`, `username`, `password` FROM `admins` AS `Admin` WHERE `Admin`.`username` = 'admin' LIMIT 1;"}
+sql: "SELECT `id`, `username`, `password` FROM `admins` AS `Admin` WHERE `Admin`.`username` = 'admin' LIMIT 1;"
+parameters: undefined
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 8380
+hostname: WIN-IAS5DFHMUN8
+
+2021-11-10 14:25:26,355 ERROR 5672 [-/::1/-/21ms POST /admin/login] nodejs.SequelizeDatabaseError: Table 'humanresources.admins' doesn't exist
+    at Query.formatError (C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\sequelize\lib\dialects\mysql\query.js:265:16)
+    at Query.run (C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\sequelize\lib\dialects\mysql\query.js:77:18)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\sequelize\lib\sequelize.js:619:16
+    at async MySQLQueryInterface.select (C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\sequelize\lib\dialects\abstract\query-interface.js:953:12)
+    at async Function.findAll (C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\sequelize\lib\model.js:1752:21)
+    at async Function.findOne (C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\sequelize\lib\model.js:1916:12)
+    at async LoginService.find (C:\Users\Administrator\Desktop\VUE3\myappapi\app\service\login.js:8:22)
+    at async LoginController.create (C:\Users\Administrator\Desktop\VUE3\myappapi\app\controller\admin\login.js:27:24)
+    at async index (C:\Users\Administrator\Desktop\VUE3\myappapi\app\middleware\adminauth.js:10:13)
+name: "SequelizeDatabaseError"
+parent: {"code":"ER_NO_SUCH_TABLE","errno":1146,"sqlState":"42S02","sqlMessage":"Table 'humanresources.admins' doesn't exist","sql":"SELECT `id`, `username`, `password` FROM `admins` AS `Admin` WHERE `Admin`.`username` = 'admin' LIMIT 1;"}
+original: {"code":"ER_NO_SUCH_TABLE","errno":1146,"sqlState":"42S02","sqlMessage":"Table 'humanresources.admins' doesn't exist","sql":"SELECT `id`, `username`, `password` FROM `admins` AS `Admin` WHERE `Admin`.`username` = 'admin' LIMIT 1;"}
+sql: "SELECT `id`, `username`, `password` FROM `admins` AS `Admin` WHERE `Admin`.`username` = 'admin' LIMIT 1;"
+parameters: undefined
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 5672
+hostname: WIN-IAS5DFHMUN8
+
+2021-11-10 14:26:41,001 ERROR 3636 [-/::1/-/13ms POST /admin/login] nodejs.TypeError: Cannot read property 'findOne' of undefined
+    at LoginService.find (C:\Users\Administrator\Desktop\VUE3\myappapi\app\service\login.js:8:44)
+    at LoginController.create (C:\Users\Administrator\Desktop\VUE3\myappapi\app\controller\admin\login.js:27:44)
+    at Object.callFn (C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\koa-compose\index.js:44:32)
+    at next (C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\koa-compose\index.js:45:18)
+    at C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\@eggjs\router\lib\router.js:186:18
+    at dispatch (C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\koa-compose\index.js:44:32)
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 3636
+hostname: WIN-IAS5DFHMUN8
+
+2021-11-10 14:27:18,311 ERROR 16008 [-/::1/-/23ms POST /admin/login] nodejs.SequelizeDatabaseError: Table 'humanresources.admins' doesn't exist
+    at Query.formatError (C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\sequelize\lib\dialects\mysql\query.js:265:16)
+    at Query.run (C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\sequelize\lib\dialects\mysql\query.js:77:18)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\sequelize\lib\sequelize.js:619:16
+    at async MySQLQueryInterface.select (C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\sequelize\lib\dialects\abstract\query-interface.js:953:12)
+    at async Function.findAll (C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\sequelize\lib\model.js:1752:21)
+    at async Function.findOne (C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\sequelize\lib\model.js:1916:12)
+    at async LoginService.find (C:\Users\Administrator\Desktop\VUE3\myappapi\app\service\login.js:8:22)
+    at async LoginController.create (C:\Users\Administrator\Desktop\VUE3\myappapi\app\controller\admin\login.js:27:24)
+    at async index (C:\Users\Administrator\Desktop\VUE3\myappapi\app\middleware\adminauth.js:10:13)
+name: "SequelizeDatabaseError"
+parent: {"code":"ER_NO_SUCH_TABLE","errno":1146,"sqlState":"42S02","sqlMessage":"Table 'humanresources.admins' doesn't exist","sql":"SELECT `id`, `username`, `password` FROM `admins` AS `admin` WHERE `admin`.`username` = 'admin' LIMIT 1;"}
+original: {"code":"ER_NO_SUCH_TABLE","errno":1146,"sqlState":"42S02","sqlMessage":"Table 'humanresources.admins' doesn't exist","sql":"SELECT `id`, `username`, `password` FROM `admins` AS `admin` WHERE `admin`.`username` = 'admin' LIMIT 1;"}
+sql: "SELECT `id`, `username`, `password` FROM `admins` AS `admin` WHERE `admin`.`username` = 'admin' LIMIT 1;"
+parameters: undefined
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 16008
+hostname: WIN-IAS5DFHMUN8
+
+2021-11-10 18:53:41,387 ERROR 13592 nodejs.ClusterClientNoResponseError: client no response in 1183686ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "ClusterClientNoResponseError"
+pid: 13592
+hostname: WIN-IAS5DFHMUN8
+
+2021-11-11 10:50:45,622 ERROR 12152 nodejs.ClusterClientNoResponseError: client no response in 178880ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "ClusterClientNoResponseError"
+pid: 12152
+hostname: WIN-IAS5DFHMUN8
+
+2021-11-11 12:39:55,835 ERROR 12152 nodejs.ClusterClientNoResponseError: client no response in 2040146ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "ClusterClientNoResponseError"
+pid: 12152
+hostname: WIN-IAS5DFHMUN8
+
+2021-11-11 13:31:18,835 ERROR 12152 nodejs.ClusterClientNoResponseError: client no response in 1259948ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "ClusterClientNoResponseError"
+pid: 12152
+hostname: WIN-IAS5DFHMUN8
+
+2021-11-11 18:47:13,861 ERROR 17292 nodejs.ClusterClientNoResponseError: client no response in 684443ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "ClusterClientNoResponseError"
+pid: 17292
+hostname: WIN-IAS5DFHMUN8
+
+2021-11-11 18:55:52,207 ERROR 17292 nodejs.ClusterClientNoResponseError: client no response in 498335ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "ClusterClientNoResponseError"
+pid: 17292
+hostname: WIN-IAS5DFHMUN8
+
+2021-11-12 15:56:53,170 ERROR 11316 nodejs.ClusterClientNoResponseError: client no response in 741419ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "ClusterClientNoResponseError"
+pid: 11316
+hostname: WIN-IAS5DFHMUN8
+
+2021-11-12 18:09:30,773 ERROR 11316 nodejs.ClusterClientNoResponseError: client no response in 266339ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "ClusterClientNoResponseError"
+pid: 11316
+hostname: WIN-IAS5DFHMUN8
+
+2021-11-13 12:05:03,687 ERROR 3248 nodejs.ClusterClientNoResponseError: client no response in 60343ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "ClusterClientNoResponseError"
+pid: 3248
+hostname: WIN-IAS5DFHMUN8
+
+2021-11-13 12:45:43,225 ERROR 3248 nodejs.ClusterClientNoResponseError: client no response in 2199434ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "ClusterClientNoResponseError"
+pid: 3248
+hostname: WIN-IAS5DFHMUN8
+
+2021-11-15 12:39:10,842 ERROR 10220 nodejs.ClusterClientNoResponseError: client no response in 1852587ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "ClusterClientNoResponseError"
+pid: 10220
+hostname: WIN-IAS5DFHMUN8
+
+2021-11-15 13:28:30,549 ERROR 10220 nodejs.ClusterClientNoResponseError: client no response in 120788ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "ClusterClientNoResponseError"
+pid: 10220
+hostname: WIN-IAS5DFHMUN8
+
+2021-11-15 17:08:27,110 ERROR 10220 nodejs.ClusterClientNoResponseError: client no response in 426735ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "ClusterClientNoResponseError"
+pid: 10220
+hostname: WIN-IAS5DFHMUN8
+
+2021-11-16 10:51:46,656 ERROR 13996 nodejs.ClusterClientNoResponseError: client no response in 231189ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "ClusterClientNoResponseError"
+pid: 13996
+hostname: WIN-IAS5DFHMUN8
+
+2021-11-16 12:36:45,517 ERROR 8360 nodejs.ClusterClientNoResponseError: client no response in 2070289ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "ClusterClientNoResponseError"
+pid: 8360
+hostname: WIN-IAS5DFHMUN8
+
+2021-11-16 12:47:44,597 ERROR 8360 nodejs.ClusterClientNoResponseError: client no response in 158881ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "ClusterClientNoResponseError"
+pid: 8360
+hostname: WIN-IAS5DFHMUN8
+
+2021-11-16 13:31:37,643 ERROR 8360 nodejs.ClusterClientNoResponseError: client no response in 1672658ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "ClusterClientNoResponseError"
+pid: 8360
+hostname: WIN-IAS5DFHMUN8
+
+2021-11-16 14:40:10,880 ERROR 8360 nodejs.ClusterClientNoResponseError: client no response in 711858ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "ClusterClientNoResponseError"
+pid: 8360
+hostname: WIN-IAS5DFHMUN8
+
+2021-11-16 16:18:18,645 ERROR 8360 nodejs.ClusterClientNoResponseError: client no response in 805677ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "ClusterClientNoResponseError"
+pid: 8360
+hostname: WIN-IAS5DFHMUN8
+
+2021-11-16 18:49:10,254 ERROR 8360 nodejs.ClusterClientNoResponseError: client no response in 827764ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "ClusterClientNoResponseError"
+pid: 8360
+hostname: WIN-IAS5DFHMUN8
+
+2021-11-17 10:38:59,775 ERROR 12720 nodejs.ClusterClientNoResponseError: client no response in 439193ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "ClusterClientNoResponseError"
+pid: 12720
+hostname: WIN-IAS5DFHMUN8
+
+2021-11-17 12:42:23,532 ERROR 14560 nodejs.ClusterClientNoResponseError: client no response in 2379594ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "ClusterClientNoResponseError"
+pid: 14560
+hostname: WIN-IAS5DFHMUN8
+
+2021-11-17 13:33:47,533 ERROR 14560 nodejs.ClusterClientNoResponseError: client no response in 1882830ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "ClusterClientNoResponseError"
+pid: 14560
+hostname: WIN-IAS5DFHMUN8
+
+2021-11-17 18:51:05,532 ERROR 14560 nodejs.ClusterClientNoResponseError: client no response in 522263ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "ClusterClientNoResponseError"
+pid: 14560
+hostname: WIN-IAS5DFHMUN8
+
+2021-11-17 19:51:00,613 ERROR 14560 nodejs.ClusterClientNoResponseError: client no response in 319150ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "ClusterClientNoResponseError"
+pid: 14560
+hostname: WIN-IAS5DFHMUN8
+
+2021-11-18 12:31:17,536 ERROR 13408 nodejs.ClusterClientNoResponseError: client no response in 1700476ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "ClusterClientNoResponseError"
+pid: 13408
+hostname: WIN-IAS5DFHMUN8
+
+2021-11-18 13:30:46,151 ERROR 13408 nodejs.ClusterClientNoResponseError: client no response in 787403ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "ClusterClientNoResponseError"
+pid: 13408
+hostname: WIN-IAS5DFHMUN8
+
+2021-11-18 14:31:12,976 ERROR 13408 nodejs.ClusterClientNoResponseError: client no response in 185494ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "ClusterClientNoResponseError"
+pid: 13408
+hostname: WIN-IAS5DFHMUN8
+
+2021-11-18 18:44:23,214 ERROR 13408 nodejs.ClusterClientNoResponseError: client no response in 687614ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "ClusterClientNoResponseError"
+pid: 13408
+hostname: WIN-IAS5DFHMUN8
+
+2021-11-18 18:49:30,369 ERROR 13408 nodejs.ClusterClientNoResponseError: client no response in 207076ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "ClusterClientNoResponseError"
+pid: 13408
+hostname: WIN-IAS5DFHMUN8
+
+2021-11-21 12:02:02,709 ERROR 6280 nodejs.ClusterClientNoResponseError: client no response in 738014ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "ClusterClientNoResponseError"
+pid: 6280
+hostname: WIN-IAS5DFHMUN8
+
+2021-11-21 13:27:58,384 ERROR 9920 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:220:20)
+errno: -4077
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 9920
+hostname: WIN-IAS5DFHMUN8
+
+2021-11-21 15:25:13,696 ERROR 9920 nodejs.ClusterClientNoResponseError: client no response in 1987194ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "ClusterClientNoResponseError"
+pid: 9920
+hostname: WIN-IAS5DFHMUN8
+
+2021-11-21 20:01:30,063 ERROR 12564 nodejs.ClusterClientNoResponseError: client no response in 3488015ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "ClusterClientNoResponseError"
+pid: 12564
+hostname: WIN-IAS5DFHMUN8
+
+2021-11-22 10:14:33,851 ERROR 13396 nodejs.ClusterClientNoResponseError: client no response in 60740ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "ClusterClientNoResponseError"
+pid: 13396
+hostname: WIN-IAS5DFHMUN8
+
+2021-11-22 10:23:48,196 ERROR 13396 nodejs.ClusterClientNoResponseError: client no response in 414297ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "ClusterClientNoResponseError"
+pid: 13396
+hostname: WIN-IAS5DFHMUN8
+
+2021-11-22 20:01:33,628 ERROR 13788 nodejs.ClusterClientNoResponseError: client no response in 292770ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "ClusterClientNoResponseError"
+pid: 13788
+hostname: WIN-IAS5DFHMUN8
+
+2021-11-22 22:56:54,472 ERROR 6680 [-/::1/-/8ms POST /admin/upload] nodejs.ReferenceError: stream is not defined
+    at UploadController.upload (C:\Users\Administrator\Desktop\VUE3\myappapi\app\controller\admin\upload.js:39:34)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async index (C:\Users\Administrator\Desktop\VUE3\myappapi\app\middleware\adminauth.js:10:13)
+    at async C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\koa-session\index.js:41:7)
+    at async bodyParser (C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\koa-bodyparser\index.js:95:5)
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 6680
+hostname: WIN-IAS5DFHMUN8
+
+2021-11-22 22:58:09,089 ERROR 2236 [-/::1/-/86ms POST /admin/upload] nodejs.ReferenceError: stream is not defined
+    at UploadController.upload (C:\Users\Administrator\Desktop\VUE3\myappapi\app\controller\admin\upload.js:39:34)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async index (C:\Users\Administrator\Desktop\VUE3\myappapi\app\middleware\adminauth.js:10:13)
+    at async C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\koa-session\index.js:41:7)
+    at async bodyParser (C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\koa-bodyparser\index.js:95:5)
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 2236
+hostname: WIN-IAS5DFHMUN8
+
+2021-11-22 23:00:59,227 ERROR 9488 [-/::1/-/79ms POST /admin/upload] nodejs.ReferenceError: stream is not defined
+    at UploadController.upload (C:\Users\Administrator\Desktop\VUE3\myappapi\app\controller\admin\upload.js:39:34)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async index (C:\Users\Administrator\Desktop\VUE3\myappapi\app\middleware\adminauth.js:10:13)
+    at async C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\koa-session\index.js:41:7)
+    at async bodyParser (C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\koa-bodyparser\index.js:95:5)
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 9488
+hostname: WIN-IAS5DFHMUN8
+
+2021-11-22 23:02:12,657 ERROR 9488 [-/::1/-/166ms POST /admin/upload] nodejs.MultipartFileTooLargeError: Request file too large, please check multipart config
+    at FileStream.<anonymous> (C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-multipart\app\extend\context.js:247:19)
+    at Object.onceWrapper (node:events:513:28)
+    at FileStream.emit (node:events:394:28)
+    at PartStream.onData (C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\busboy\lib\types\multipart.js:220:18)
+    at PartStream.emit (node:events:394:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at PartStream.Readable.push (node:internal/streams/readable:228:10)
+    at Dicer._oninfo (C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\dicer\lib\Dicer.js:191:36)
+    at SBMH.<anonymous> (C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\dicer\lib\Dicer.js:127:10)
+name: "MultipartFileTooLargeError"
+status: 413
+fields: {}
+filename: "a (2).mp4"
+pid: 9488
+hostname: WIN-IAS5DFHMUN8
+
+2021-11-22 23:02:55,238 ERROR 9488 [-/::1/-/106ms POST /admin/upload] nodejs.ReferenceError: stream is not defined
+    at UploadController.upload (C:\Users\Administrator\Desktop\VUE3\myappapi\app\controller\admin\upload.js:39:34)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async index (C:\Users\Administrator\Desktop\VUE3\myappapi\app\middleware\adminauth.js:10:13)
+    at async C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\koa-session\index.js:41:7)
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 9488
+hostname: WIN-IAS5DFHMUN8
+
+2021-11-22 23:03:38,967 ERROR 9488 [-/::1/-/13ms POST /admin/upload] nodejs.ReferenceError: stream is not defined
+    at UploadController.upload (C:\Users\Administrator\Desktop\VUE3\myappapi\app\controller\admin\upload.js:39:34)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async index (C:\Users\Administrator\Desktop\VUE3\myappapi\app\middleware\adminauth.js:10:13)
+    at async C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\koa-session\index.js:41:7)
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 9488
+hostname: WIN-IAS5DFHMUN8
+
+2021-11-22 23:05:34,643 ERROR 1872 [-/::1/-/31ms POST /admin/upload] nodejs.TypeError: Cannot read property 'resume' of undefined
+    at C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\stream-wormhole\index.js:5:23
+    at new Promise (<anonymous>)
+    at module.exports (C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\stream-wormhole\index.js:4:10)
+    at UploadController.upload (C:\Users\Administrator\Desktop\VUE3\myappapi\app\controller\admin\upload.js:40:19)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async index (C:\Users\Administrator\Desktop\VUE3\myappapi\app\middleware\adminauth.js:10:13)
+    at async C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-security\lib\middlewares\nosniff.js:8:5)
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 1872
+hostname: WIN-IAS5DFHMUN8
+
+2021-11-22 23:06:15,696 ERROR 1308 [-/::1/-/38ms POST /admin/upload] nodejs.TypeError: Cannot read property 'resume' of undefined
+    at C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\stream-wormhole\index.js:5:23
+    at new Promise (<anonymous>)
+    at module.exports (C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\stream-wormhole\index.js:4:10)
+    at UploadController.upload (C:\Users\Administrator\Desktop\VUE3\myappapi\app\controller\admin\upload.js:40:19)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async index (C:\Users\Administrator\Desktop\VUE3\myappapi\app\middleware\adminauth.js:10:13)
+    at async C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-security\lib\middlewares\nosniff.js:8:5)
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 1308
+hostname: WIN-IAS5DFHMUN8
+
+2021-11-24 13:30:52,973 ERROR 10052 nodejs.ClusterClientNoResponseError: client no response in 301420ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "ClusterClientNoResponseError"
+pid: 10052
+hostname: WIN-IAS5DFHMUN8
+
+2021-11-24 14:28:03,217 ERROR 10052 nodejs.ClusterClientNoResponseError: client no response in 169031ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "ClusterClientNoResponseError"
+pid: 10052
+hostname: WIN-IAS5DFHMUN8
+

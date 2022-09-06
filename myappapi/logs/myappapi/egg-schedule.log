@@ -1,0 +1,837 @@
+<<<<<<< HEAD
+2021-11-27 00:10:41,803 INFO 9956 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-27 00:10:41,803 INFO 9956 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-27 00:10:41,803 INFO 9956 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-27 00:10:59,097 INFO 7576 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-27 00:10:59,097 INFO 7576 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-27 00:10:59,097 INFO 7576 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-27 00:12:14,931 INFO 9676 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-27 00:12:14,931 INFO 9676 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-27 00:12:14,931 INFO 9676 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-27 00:16:49,740 INFO 1552 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-27 00:16:49,740 INFO 1552 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-27 00:16:49,740 INFO 1552 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-27 00:18:25,808 INFO 7076 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-27 00:18:25,808 INFO 7076 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-27 00:18:25,808 INFO 7076 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-27 00:20:16,406 INFO 9008 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-27 00:20:16,406 INFO 9008 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-27 00:20:16,406 INFO 9008 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-27 00:22:26,418 INFO 12292 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-27 00:22:26,418 INFO 12292 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-27 00:22:26,418 INFO 12292 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-27 08:36:58,433 INFO 8420 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-27 08:36:58,434 INFO 8420 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-27 08:36:58,434 INFO 8420 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-27 08:36:59,129 INFO 1464 [Timer] C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 71580874ms at 2021-11-28 04:30:00.003
+2021-11-27 08:36:59,129 INFO 1464 [Timer] C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 55380871ms at 2021-11-28 00:00:00.000
+2021-11-27 08:36:59,130 INFO 1464 [Timer] C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 55381871ms at 2021-11-28 00:00:01.001
+2021-11-27 08:40:38,722 INFO 6764 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-27 08:40:38,722 INFO 6764 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-27 08:40:38,722 INFO 6764 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-27 09:05:20,287 INFO 7972 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-27 09:05:20,287 INFO 7972 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-27 09:05:20,287 INFO 7972 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-27 14:50:13,198 INFO 9760 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-27 14:50:13,198 INFO 9760 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-27 14:50:13,198 INFO 9760 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-27 14:50:24,393 INFO 1948 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-27 14:50:24,393 INFO 1948 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-27 14:50:24,393 INFO 1948 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-27 14:51:26,604 INFO 13428 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-27 14:51:26,604 INFO 13428 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-27 14:51:26,604 INFO 13428 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-27 15:47:50,256 INFO 15592 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-27 15:47:50,256 INFO 15592 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-27 15:47:50,256 INFO 15592 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-27 15:50:39,136 INFO 2136 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-27 15:50:39,136 INFO 2136 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-27 15:50:39,136 INFO 2136 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-27 15:51:04,267 INFO 6784 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-27 15:51:04,267 INFO 6784 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-27 15:51:04,267 INFO 6784 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-27 15:55:14,330 INFO 14180 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-27 15:55:14,330 INFO 14180 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-27 15:55:14,330 INFO 14180 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-27 15:55:15,828 INFO 14644 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-27 15:55:15,828 INFO 14644 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-27 15:55:15,828 INFO 14644 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-27 15:58:56,141 INFO 14024 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-27 15:58:56,141 INFO 14024 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-27 15:58:56,141 INFO 14024 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-27 16:44:40,080 INFO 11408 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-27 16:44:40,080 INFO 11408 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-27 16:44:40,080 INFO 11408 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-27 17:18:49,023 INFO 5172 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-27 17:18:49,023 INFO 5172 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-27 17:18:49,023 INFO 5172 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-27 17:18:55,146 INFO 14500 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-27 17:18:55,147 INFO 14500 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-27 17:18:55,147 INFO 14500 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-27 17:19:02,481 INFO 13928 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-27 17:19:02,481 INFO 13928 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-27 17:19:02,481 INFO 13928 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-27 17:21:33,743 INFO 14588 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-27 17:21:33,743 INFO 14588 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-27 17:21:33,743 INFO 14588 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-27 17:22:27,836 INFO 1456 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-27 17:22:27,836 INFO 1456 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-27 17:22:27,836 INFO 1456 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-27 17:23:47,219 INFO 4004 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-27 17:23:47,219 INFO 4004 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-27 17:23:47,219 INFO 4004 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-27 17:24:43,943 INFO 6516 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-27 17:24:43,943 INFO 6516 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-27 17:24:43,943 INFO 6516 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-27 17:24:45,520 INFO 6468 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-27 17:24:45,520 INFO 6468 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-27 17:24:45,520 INFO 6468 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-27 17:24:54,670 INFO 2636 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-27 17:24:54,670 INFO 2636 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-27 17:24:54,670 INFO 2636 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-27 17:25:51,286 INFO 4928 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-27 17:25:51,286 INFO 4928 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-27 17:25:51,286 INFO 4928 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-27 17:26:17,604 INFO 7972 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-27 17:26:17,604 INFO 7972 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-27 17:26:17,604 INFO 7972 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-27 17:26:28,619 INFO 14960 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-27 17:26:28,619 INFO 14960 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-27 17:26:28,619 INFO 14960 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-27 17:26:54,459 INFO 15632 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-27 17:26:54,459 INFO 15632 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-27 17:26:54,459 INFO 15632 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-27 17:27:37,597 INFO 14400 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-27 17:27:37,597 INFO 14400 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-27 17:27:37,597 INFO 14400 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-27 17:28:38,601 INFO 9776 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-27 17:28:38,601 INFO 9776 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-27 17:28:38,601 INFO 9776 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-27 17:30:31,670 INFO 15020 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-27 17:30:31,670 INFO 15020 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-27 17:30:31,670 INFO 15020 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-27 17:33:46,747 INFO 4812 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-27 17:33:46,747 INFO 4812 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-27 17:33:46,747 INFO 4812 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-27 17:33:48,479 INFO 5668 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-27 17:33:48,479 INFO 5668 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-27 17:33:48,479 INFO 5668 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-27 17:33:56,013 INFO 16160 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-27 17:33:56,014 INFO 16160 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-27 17:33:56,014 INFO 16160 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-27 17:34:04,704 INFO 15868 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-27 17:34:04,704 INFO 15868 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-27 17:34:04,704 INFO 15868 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-27 17:34:50,876 INFO 4652 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-27 17:34:50,876 INFO 4652 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-27 17:34:50,876 INFO 4652 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-27 17:34:52,268 INFO 7028 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-27 17:34:52,268 INFO 7028 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-27 17:34:52,268 INFO 7028 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-27 17:35:27,599 INFO 7156 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-27 17:35:27,599 INFO 7156 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-27 17:35:27,599 INFO 7156 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-27 17:35:54,747 INFO 1484 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-27 17:35:54,747 INFO 1484 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-27 17:35:54,747 INFO 1484 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-27 17:35:56,221 INFO 12132 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-27 17:35:56,221 INFO 12132 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-27 17:35:56,221 INFO 12132 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-27 17:36:27,395 INFO 11464 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-27 17:36:27,395 INFO 11464 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-27 17:36:27,395 INFO 11464 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-27 17:36:51,638 INFO 3400 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-27 17:36:51,638 INFO 3400 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-27 17:36:51,638 INFO 3400 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-27 17:37:36,117 INFO 11608 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-27 17:37:36,117 INFO 11608 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-27 17:37:36,117 INFO 11608 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-27 17:37:59,071 INFO 15616 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-27 17:37:59,071 INFO 15616 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-27 17:37:59,071 INFO 15616 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-27 18:08:51,064 INFO 16096 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-27 18:08:51,064 INFO 16096 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-27 18:08:51,064 INFO 16096 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-27 19:36:41,821 INFO 4164 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-27 19:36:41,821 INFO 4164 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-27 19:36:41,822 INFO 4164 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-27 19:36:43,013 INFO 11256 [Timer] C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 31996995ms at 2021-11-28 04:30:00.008
+2021-11-27 19:36:43,014 INFO 11256 [Timer] C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 15796986ms at 2021-11-28 00:00:00.000
+2021-11-27 19:36:43,015 INFO 11256 [Timer] C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 15797986ms at 2021-11-28 00:00:01.001
+=======
+2021-11-17 09:17:51,948 INFO 23924 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-17 09:17:51,948 INFO 23924 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-17 09:17:51,948 INFO 23924 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-17 09:17:53,181 INFO 5064 [Timer] E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 69126824ms at 2021-11-18 04:30:00.004
+2021-11-17 09:17:53,181 INFO 5064 [Timer] E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 52926819ms at 2021-11-18 00:00:00.000
+2021-11-17 09:17:53,181 INFO 5064 [Timer] E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 52927819ms at 2021-11-18 00:00:01.000
+2021-11-17 10:55:03,544 INFO 20668 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-17 10:55:03,544 INFO 20668 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-17 10:55:03,544 INFO 20668 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-17 10:55:10,021 INFO 3660 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-17 10:55:10,021 INFO 3660 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-17 10:55:10,021 INFO 3660 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-17 10:55:14,763 INFO 16180 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-17 10:55:14,763 INFO 16180 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-17 10:55:14,763 INFO 16180 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-17 10:55:21,093 INFO 2392 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-17 10:55:21,093 INFO 2392 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-17 10:55:21,093 INFO 2392 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-17 10:55:37,340 INFO 21080 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-17 10:55:37,340 INFO 21080 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-17 10:55:37,340 INFO 21080 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-17 10:55:44,485 INFO 11548 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-17 10:55:44,485 INFO 11548 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-17 10:55:44,485 INFO 11548 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-17 11:00:04,581 INFO 11756 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-17 11:00:04,581 INFO 11756 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-17 11:00:04,581 INFO 11756 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-17 11:00:11,189 INFO 20188 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-17 11:00:11,189 INFO 20188 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-17 11:00:11,189 INFO 20188 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-17 11:00:17,307 INFO 20620 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-17 11:00:17,307 INFO 20620 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-17 11:00:17,307 INFO 20620 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-17 11:00:35,789 INFO 16916 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-17 11:00:35,789 INFO 16916 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-17 11:00:35,789 INFO 16916 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-17 11:00:48,197 INFO 12708 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-17 11:00:48,197 INFO 12708 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-17 11:00:48,197 INFO 12708 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-17 11:00:53,989 INFO 4284 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-17 11:00:53,989 INFO 4284 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-17 11:00:53,989 INFO 4284 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-17 11:01:22,773 INFO 22344 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-17 11:01:22,773 INFO 22344 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-17 11:01:22,773 INFO 22344 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-17 11:01:27,991 INFO 10216 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-17 11:01:27,991 INFO 10216 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-17 11:01:27,991 INFO 10216 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-17 11:01:36,148 INFO 17952 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-17 11:01:36,148 INFO 17952 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-17 11:01:36,148 INFO 17952 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-17 11:01:56,214 INFO 26296 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-17 11:01:56,214 INFO 26296 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-17 11:01:56,214 INFO 26296 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-17 11:03:51,319 INFO 18860 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-17 11:03:51,319 INFO 18860 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-17 11:03:51,319 INFO 18860 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-17 11:11:44,139 INFO 21936 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-17 11:11:44,139 INFO 21936 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-17 11:11:44,139 INFO 21936 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-17 11:13:36,715 INFO 11428 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-17 11:13:36,715 INFO 11428 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-17 11:13:36,715 INFO 11428 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-17 11:14:01,323 INFO 24744 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-17 11:14:01,323 INFO 24744 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-17 11:14:01,323 INFO 24744 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-17 11:18:25,206 INFO 11004 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-17 11:18:25,206 INFO 11004 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-17 11:18:25,206 INFO 11004 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-17 11:26:07,730 INFO 3048 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-17 11:26:07,730 INFO 3048 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-17 11:26:07,730 INFO 3048 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-17 11:39:29,484 INFO 22712 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-17 11:39:29,484 INFO 22712 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-17 11:39:29,484 INFO 22712 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-17 11:52:38,058 INFO 20020 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-17 11:52:38,058 INFO 20020 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-17 11:52:38,058 INFO 20020 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-17 11:57:40,660 INFO 3324 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-17 11:57:40,660 INFO 3324 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-17 11:57:40,660 INFO 3324 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-17 11:57:46,159 INFO 10808 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-17 11:57:46,159 INFO 10808 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-17 11:57:46,159 INFO 10808 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-17 11:58:43,990 INFO 15940 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-17 11:58:43,990 INFO 15940 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-17 11:58:43,990 INFO 15940 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-17 11:59:30,273 INFO 13320 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-17 11:59:30,273 INFO 13320 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-17 11:59:30,273 INFO 13320 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-17 11:59:48,910 INFO 24304 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-17 11:59:48,910 INFO 24304 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-17 11:59:48,910 INFO 24304 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-17 12:01:18,746 INFO 22580 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-17 12:01:18,746 INFO 22580 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-17 12:01:18,746 INFO 22580 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-17 12:01:28,653 INFO 26180 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-17 12:01:28,654 INFO 26180 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-17 12:01:28,654 INFO 26180 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-17 12:01:36,567 INFO 16832 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-17 12:01:36,567 INFO 16832 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-17 12:01:36,567 INFO 16832 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-17 12:01:42,025 INFO 15828 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-17 12:01:42,025 INFO 15828 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-17 12:01:42,025 INFO 15828 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-17 13:34:11,044 INFO 18080 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-17 13:34:11,044 INFO 18080 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-17 13:34:11,044 INFO 18080 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-17 13:34:17,020 INFO 20720 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-17 13:34:17,020 INFO 20720 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-17 13:34:17,020 INFO 20720 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-17 13:34:48,565 INFO 18208 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-17 13:34:48,565 INFO 18208 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-17 13:34:48,565 INFO 18208 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-17 13:35:00,576 INFO 17268 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-17 13:35:00,576 INFO 17268 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-17 13:35:00,576 INFO 17268 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-17 13:35:12,226 INFO 16884 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-17 13:35:12,226 INFO 16884 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-17 13:35:12,226 INFO 16884 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-17 13:42:13,699 INFO 24728 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-17 13:42:13,699 INFO 24728 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-17 13:42:13,699 INFO 24728 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-17 14:31:33,066 INFO 14016 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-17 14:31:33,066 INFO 14016 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-17 14:31:33,066 INFO 14016 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-17 14:33:17,175 INFO 10684 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-17 14:33:17,175 INFO 10684 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-17 14:33:17,175 INFO 10684 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-17 14:33:52,236 INFO 21272 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-17 14:33:52,236 INFO 21272 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-17 14:33:52,236 INFO 21272 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-17 14:34:06,367 INFO 21148 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-17 14:34:06,367 INFO 21148 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-17 14:34:06,367 INFO 21148 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-17 14:34:39,114 INFO 3240 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-17 14:34:39,114 INFO 3240 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-17 14:34:39,114 INFO 3240 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-17 14:34:45,626 INFO 13544 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-17 14:34:45,626 INFO 13544 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-17 14:34:45,626 INFO 13544 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-17 15:50:36,789 INFO 11928 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-17 15:50:36,789 INFO 11928 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-17 15:50:36,789 INFO 11928 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-17 15:50:42,034 INFO 9620 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-17 15:50:42,034 INFO 9620 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-17 15:50:42,034 INFO 9620 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-17 15:52:47,320 INFO 21472 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-17 15:52:47,320 INFO 21472 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-17 15:52:47,320 INFO 21472 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-17 15:54:42,491 INFO 18528 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-17 15:54:42,491 INFO 18528 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-17 15:54:42,491 INFO 18528 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-17 16:56:27,631 INFO 23288 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-17 16:56:27,631 INFO 23288 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-17 16:56:27,631 INFO 23288 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-17 16:56:33,322 INFO 24768 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-17 16:56:33,322 INFO 24768 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-17 16:56:33,322 INFO 24768 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-17 17:03:30,821 INFO 6344 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-17 17:03:30,821 INFO 6344 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-17 17:03:30,821 INFO 6344 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-17 17:03:58,109 INFO 21568 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-17 17:03:58,109 INFO 21568 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-17 17:03:58,109 INFO 21568 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-18 09:06:46,262 INFO 25660 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-18 09:06:46,262 INFO 25660 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-18 09:06:46,262 INFO 25660 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-18 09:06:47,754 INFO 20124 [Timer] E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 69792252ms at 2021-11-19 04:30:00.006
+2021-11-18 09:06:47,755 INFO 20124 [Timer] E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 53592246ms at 2021-11-19 00:00:00.001
+2021-11-18 09:06:47,757 INFO 20124 [Timer] E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 53593245ms at 2021-11-19 00:00:01.002
+2021-11-18 09:22:31,047 INFO 27344 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-18 09:22:31,047 INFO 27344 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-18 09:22:31,047 INFO 27344 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-18 09:24:33,767 INFO 11760 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-18 09:24:33,768 INFO 11760 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-18 09:24:33,768 INFO 11760 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-18 09:25:30,402 INFO 26312 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-18 09:25:30,402 INFO 26312 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-18 09:25:30,402 INFO 26312 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-18 09:25:46,470 INFO 1828 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-18 09:25:46,470 INFO 1828 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-18 09:25:46,470 INFO 1828 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-18 09:51:51,090 INFO 2164 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-18 09:51:51,090 INFO 2164 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-18 09:51:51,090 INFO 2164 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-18 09:53:02,878 INFO 23988 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-18 09:53:02,878 INFO 23988 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-18 09:53:02,878 INFO 23988 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-18 09:53:59,981 INFO 6868 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-18 09:53:59,981 INFO 6868 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-18 09:53:59,981 INFO 6868 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-18 09:56:29,945 INFO 2480 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-18 09:56:29,945 INFO 2480 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-18 09:56:29,945 INFO 2480 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-18 09:56:36,008 INFO 27732 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-18 09:56:36,008 INFO 27732 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-18 09:56:36,008 INFO 27732 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-18 09:57:17,444 INFO 23200 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-18 09:57:17,444 INFO 23200 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-18 09:57:17,444 INFO 23200 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-18 09:57:24,820 INFO 8408 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-18 09:57:24,820 INFO 8408 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-18 09:57:24,820 INFO 8408 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-18 10:47:23,729 INFO 15168 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-18 10:47:23,729 INFO 15168 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-18 10:47:23,729 INFO 15168 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-18 10:47:48,990 INFO 27208 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-18 10:47:48,990 INFO 27208 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-18 10:47:48,990 INFO 27208 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-19 10:01:40,524 INFO 6644 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-19 10:01:40,524 INFO 6644 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-19 10:01:40,524 INFO 6644 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-19 10:01:42,539 INFO 27208 [Timer] E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 66497466ms at 2021-11-20 04:30:00.005
+2021-11-19 10:01:42,540 INFO 27208 [Timer] E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 50297461ms at 2021-11-20 00:00:00.001
+2021-11-19 10:01:42,541 INFO 27208 [Timer] E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 50298460ms at 2021-11-20 00:00:01.001
+2021-11-22 21:21:23,465 INFO 20584 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-22 21:21:23,465 INFO 20584 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-22 21:21:23,465 INFO 20584 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-22 21:21:25,044 INFO 21228 [Timer] E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 25714960ms at 2021-11-23 04:30:00.004
+2021-11-22 21:21:25,044 INFO 21228 [Timer] E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 9514956ms at 2021-11-23 00:00:00.000
+2021-11-22 21:21:25,045 INFO 21228 [Timer] E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 9515956ms at 2021-11-23 00:00:01.001
+2021-11-22 21:21:30,547 INFO 5480 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-22 21:21:30,547 INFO 5480 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-22 21:21:30,547 INFO 5480 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-22 21:22:01,739 INFO 13300 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-22 21:22:01,739 INFO 13300 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-22 21:22:01,739 INFO 13300 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-22 21:22:02,773 INFO 15600 [Timer] E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 25677232ms at 2021-11-23 04:30:00.005
+2021-11-22 21:22:02,774 INFO 15600 [Timer] E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 9477226ms at 2021-11-23 00:00:00.000
+2021-11-22 21:22:02,775 INFO 15600 [Timer] E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 9478226ms at 2021-11-23 00:00:01.001
+2021-11-22 21:24:17,308 INFO 21124 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-22 21:24:17,308 INFO 21124 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-22 21:24:17,308 INFO 21124 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-22 21:24:18,441 INFO 20392 [Timer] E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 25541565ms at 2021-11-23 04:30:00.006
+2021-11-22 21:24:18,441 INFO 20392 [Timer] E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 9341559ms at 2021-11-23 00:00:00.000
+2021-11-22 21:24:18,442 INFO 20392 [Timer] E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 9342559ms at 2021-11-23 00:00:01.001
+2021-11-22 21:25:23,521 INFO 20332 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-22 21:25:23,521 INFO 20332 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-22 21:25:23,521 INFO 20332 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-22 22:21:19,594 INFO 17624 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-22 22:21:19,594 INFO 17624 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-22 22:21:19,594 INFO 17624 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-22 22:21:25,418 INFO 11584 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-22 22:21:25,418 INFO 11584 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-22 22:21:25,418 INFO 11584 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-23 12:39:42,390 INFO 13648 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-23 12:39:42,390 INFO 13648 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-23 12:39:42,390 INFO 13648 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-23 12:39:43,711 INFO 19648 [Timer] E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 57016293ms at 2021-11-24 04:30:00.004
+2021-11-23 12:39:43,712 INFO 19648 [Timer] E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 40816289ms at 2021-11-24 00:00:00.000
+2021-11-23 12:39:43,712 INFO 19648 [Timer] E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 40817288ms at 2021-11-24 00:00:01.000
+2021-11-23 13:03:59,387 INFO 3796 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-23 13:03:59,387 INFO 3796 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-23 13:03:59,387 INFO 3796 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-23 13:04:00,621 INFO 2788 [Timer] E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 55559385ms at 2021-11-24 04:30:00.006
+2021-11-23 13:04:00,622 INFO 2788 [Timer] E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 39359378ms at 2021-11-24 00:00:00.000
+2021-11-23 13:04:00,622 INFO 2788 [Timer] E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 39360378ms at 2021-11-24 00:00:01.000
+2021-11-23 13:25:06,427 INFO 22468 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-23 13:25:06,427 INFO 22468 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-23 13:25:06,427 INFO 22468 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-23 13:25:53,692 INFO 14056 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-23 13:25:53,692 INFO 14056 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-23 13:25:53,692 INFO 14056 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-23 13:26:20,052 INFO 23212 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-23 13:26:20,052 INFO 23212 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-23 13:26:20,052 INFO 23212 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-23 13:26:44,503 INFO 23220 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-23 13:26:44,503 INFO 23220 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-23 13:26:44,503 INFO 23220 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-23 13:27:13,767 INFO 25708 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-23 13:27:13,767 INFO 25708 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-23 13:27:13,767 INFO 25708 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-23 13:28:25,891 INFO 13248 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-23 13:28:25,891 INFO 13248 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-23 13:28:25,891 INFO 13248 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-23 13:28:31,310 INFO 21232 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-23 13:28:31,310 INFO 21232 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-23 13:28:31,310 INFO 21232 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-23 19:21:18,403 INFO 18168 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-23 19:21:18,403 INFO 18168 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-23 19:21:18,403 INFO 18168 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-23 19:21:25,512 INFO 11144 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-23 19:21:25,512 INFO 11144 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-23 19:21:25,512 INFO 11144 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-27 11:14:05,718 INFO 8044 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-27 11:14:05,718 INFO 8044 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-27 11:14:05,718 INFO 8044 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-27 11:14:07,539 INFO 12884 [Timer] E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 62152467ms at 2021-11-28 04:30:00.006
+2021-11-27 11:14:07,540 INFO 12884 [Timer] E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 45952461ms at 2021-11-28 00:00:00.001
+2021-11-27 11:14:07,541 INFO 12884 [Timer] E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 45953460ms at 2021-11-28 00:00:01.001
+2021-11-27 14:57:05,017 INFO 20628 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-27 14:57:05,017 INFO 20628 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-27 14:57:05,017 INFO 20628 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-27 14:57:06,864 INFO 7680 [Timer] E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 48773141ms at 2021-11-28 04:30:00.005
+2021-11-27 14:57:06,865 INFO 7680 [Timer] E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 32573136ms at 2021-11-28 00:00:00.001
+2021-11-27 14:57:06,865 INFO 7680 [Timer] E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 32574135ms at 2021-11-28 00:00:01.000
+2021-11-27 15:02:44,222 INFO 30332 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-27 15:02:44,222 INFO 30332 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-27 15:02:44,222 INFO 30332 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-27 15:03:19,876 INFO 7036 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-27 15:03:19,876 INFO 7036 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-27 15:03:19,876 INFO 7036 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-27 15:04:18,606 INFO 29692 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-27 15:04:18,606 INFO 29692 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-27 15:04:18,606 INFO 29692 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-27 15:04:56,534 INFO 1936 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-27 15:04:56,534 INFO 1936 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-27 15:04:56,534 INFO 1936 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-27 15:05:15,784 INFO 16988 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-27 15:05:15,784 INFO 16988 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-27 15:05:15,784 INFO 16988 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-27 15:07:06,214 INFO 23964 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-27 15:07:06,214 INFO 23964 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-27 15:07:06,214 INFO 23964 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-27 15:08:52,116 INFO 29660 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-27 15:08:52,116 INFO 29660 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-27 15:08:52,117 INFO 29660 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-27 15:09:04,617 INFO 21608 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-27 15:09:04,617 INFO 21608 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-27 15:09:04,617 INFO 21608 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-27 15:09:54,365 INFO 19668 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-27 15:09:54,365 INFO 19668 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-27 15:09:54,365 INFO 19668 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-27 15:11:51,677 INFO 24028 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-27 15:11:51,677 INFO 24028 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-27 15:11:51,677 INFO 24028 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-27 15:13:40,176 INFO 4612 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-27 15:13:40,176 INFO 4612 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-27 15:13:40,176 INFO 4612 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-27 15:14:12,383 INFO 23396 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-27 15:14:12,383 INFO 23396 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-27 15:14:12,383 INFO 23396 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-27 15:17:52,331 INFO 22012 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-27 15:17:52,331 INFO 22012 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-27 15:17:52,332 INFO 22012 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-27 15:20:27,167 INFO 30916 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-27 15:20:27,167 INFO 30916 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-27 15:20:27,167 INFO 30916 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-27 15:35:38,723 INFO 28516 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-27 15:35:38,723 INFO 28516 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-27 15:35:38,723 INFO 28516 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-27 15:35:44,829 INFO 30640 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-27 15:35:44,829 INFO 30640 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-27 15:35:44,829 INFO 30640 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-27 15:35:50,973 INFO 1668 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-27 15:35:50,973 INFO 1668 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-27 15:35:50,973 INFO 1668 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-27 15:56:49,619 INFO 15856 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-27 15:56:49,619 INFO 15856 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-27 15:56:49,619 INFO 15856 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-27 15:56:56,186 INFO 13340 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-27 15:56:56,186 INFO 13340 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-27 15:56:56,186 INFO 13340 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-27 16:29:37,917 INFO 29088 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-27 16:29:37,917 INFO 29088 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-27 16:29:37,917 INFO 29088 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-27 16:29:43,634 INFO 18648 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-27 16:29:43,634 INFO 18648 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-27 16:29:43,634 INFO 18648 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-27 16:29:48,483 INFO 20172 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-27 16:29:48,483 INFO 20172 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-27 16:29:48,483 INFO 20172 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-27 16:36:47,595 INFO 14140 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-27 16:36:47,595 INFO 14140 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-27 16:36:47,595 INFO 14140 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-27 16:36:52,805 INFO 21268 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-27 16:36:52,805 INFO 21268 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-27 16:36:52,805 INFO 21268 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-27 16:43:23,459 INFO 4640 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-27 16:43:23,459 INFO 4640 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-27 16:43:23,459 INFO 4640 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-27 16:44:34,503 INFO 21520 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-27 16:44:34,503 INFO 21520 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-27 16:44:34,503 INFO 21520 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-27 16:45:39,313 INFO 18484 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-27 16:45:39,313 INFO 18484 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-27 16:45:39,313 INFO 18484 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-27 16:46:09,706 INFO 31620 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-27 16:46:09,706 INFO 31620 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-27 16:46:09,706 INFO 31620 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-27 21:14:54,899 INFO 13720 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-27 21:14:54,899 INFO 13720 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-27 21:14:54,899 INFO 13720 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-27 21:15:01,529 INFO 26692 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-27 21:15:01,529 INFO 26692 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-27 21:15:01,529 INFO 26692 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-27 21:16:58,587 INFO 8692 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-27 21:16:58,587 INFO 8692 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-27 21:16:58,587 INFO 8692 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-27 21:17:03,533 INFO 1516 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-27 21:17:03,533 INFO 1516 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-27 21:17:03,533 INFO 1516 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-27 21:20:41,657 INFO 25272 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-27 21:20:41,657 INFO 25272 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-27 21:20:41,657 INFO 25272 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-27 21:23:05,641 INFO 11208 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-27 21:23:05,641 INFO 11208 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-27 21:23:05,641 INFO 11208 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-27 21:24:02,578 INFO 18212 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-27 21:24:02,578 INFO 18212 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-27 21:24:02,578 INFO 18212 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-27 21:54:40,831 INFO 12572 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-27 21:54:40,831 INFO 12572 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-27 21:54:40,831 INFO 12572 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-27 21:55:35,378 INFO 32588 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-27 21:55:35,378 INFO 32588 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-27 21:55:35,378 INFO 32588 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-27 21:56:01,089 INFO 21392 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-27 21:56:01,089 INFO 21392 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-27 21:56:01,089 INFO 21392 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-27 22:02:49,931 INFO 2228 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-27 22:02:49,932 INFO 2228 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-27 22:02:49,932 INFO 2228 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-27 22:02:58,866 INFO 19200 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-27 22:02:58,866 INFO 19200 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-27 22:02:58,866 INFO 19200 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-27 22:03:56,137 INFO 16240 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-27 22:03:56,137 INFO 16240 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-27 22:03:56,137 INFO 16240 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-27 22:08:39,991 INFO 3876 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-27 22:08:39,991 INFO 3876 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-27 22:08:39,991 INFO 3876 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-27 22:09:12,963 INFO 28376 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-27 22:09:12,963 INFO 28376 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-27 22:09:12,963 INFO 28376 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-27 22:13:56,888 INFO 30840 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-27 22:13:56,888 INFO 30840 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-27 22:13:56,888 INFO 30840 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-27 22:14:27,015 INFO 30412 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-27 22:14:27,015 INFO 30412 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-27 22:14:27,015 INFO 30412 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-27 22:16:51,611 INFO 19168 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-27 22:16:51,611 INFO 19168 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-27 22:16:51,611 INFO 19168 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-27 22:16:57,034 INFO 29576 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-27 22:16:57,034 INFO 29576 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-27 22:16:57,034 INFO 29576 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-27 22:20:42,562 INFO 28148 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-27 22:20:42,562 INFO 28148 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-27 22:20:42,562 INFO 28148 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-27 22:26:52,536 INFO 25892 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-27 22:26:52,536 INFO 25892 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-27 22:26:52,536 INFO 25892 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-27 22:36:40,281 INFO 18640 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-27 22:36:40,281 INFO 18640 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-27 22:36:40,281 INFO 18640 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-27 22:40:31,430 INFO 23412 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-27 22:40:31,430 INFO 23412 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-27 22:40:31,431 INFO 23412 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-27 22:52:33,601 INFO 17916 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-27 22:52:33,601 INFO 17916 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-27 22:52:33,602 INFO 17916 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-27 22:56:36,740 INFO 21164 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-27 22:56:36,740 INFO 21164 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-27 22:56:36,740 INFO 21164 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-27 22:56:41,743 INFO 6284 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-27 22:56:41,743 INFO 6284 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-27 22:56:41,744 INFO 6284 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-28 10:47:53,831 INFO 17992 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-28 10:47:53,831 INFO 17992 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-28 10:47:53,831 INFO 17992 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-28 10:47:55,379 INFO 11292 [Timer] E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 63724626ms at 2021-11-29 04:30:00.005
+2021-11-28 10:47:55,379 INFO 11292 [Timer] E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 47524621ms at 2021-11-29 00:00:00.000
+2021-11-28 10:47:55,380 INFO 11292 [Timer] E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 47525621ms at 2021-11-29 00:00:01.001
+2021-11-28 11:33:26,463 INFO 17720 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-28 11:33:26,463 INFO 17720 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-28 11:33:26,463 INFO 17720 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-28 11:56:24,715 INFO 30860 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-28 11:56:24,715 INFO 30860 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-28 11:56:24,715 INFO 30860 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-28 11:56:30,064 INFO 2256 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-28 11:56:30,064 INFO 2256 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-28 11:56:30,064 INFO 2256 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-28 11:59:59,260 INFO 14140 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-28 11:59:59,260 INFO 14140 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-28 11:59:59,260 INFO 14140 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-28 12:00:05,740 INFO 652 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-28 12:00:05,740 INFO 652 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-28 12:00:05,740 INFO 652 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-29 13:57:17,475 INFO 22820 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-29 13:57:17,475 INFO 22820 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-29 13:57:17,475 INFO 22820 [egg-schedule]: register schedule E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-29 13:57:18,751 INFO 32184 [Timer] E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 52361252ms at 2021-11-30 04:30:00.003
+2021-11-29 13:57:18,752 INFO 32184 [Timer] E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 36161249ms at 2021-11-30 00:00:00.001
+2021-11-29 13:57:18,752 INFO 32184 [Timer] E:\优逸客学习\Vue3 + TS 项目\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 36162248ms at 2021-11-30 00:00:01.000
+>>>>>>> master
+2021-11-30 14:46:34,694 INFO 1100 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-30 14:46:34,694 INFO 1100 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-30 14:46:34,694 INFO 1100 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-30 14:46:35,140 INFO 1308 [Timer] C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 49404863ms at 2021-12-01 04:30:00.003
+2021-11-30 14:46:35,140 INFO 1308 [Timer] C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 33204860ms at 2021-12-01 00:00:00.000
+2021-11-30 14:46:35,141 INFO 1308 [Timer] C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 33205860ms at 2021-12-01 00:00:01.001
+2021-11-30 14:46:49,179 INFO 12620 [Timer] C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 49390823ms at 2021-12-01 04:30:00.002
+2021-11-30 14:46:49,180 INFO 12620 [Timer] C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 33190820ms at 2021-12-01 00:00:00.000
+2021-11-30 14:46:49,180 INFO 12620 [Timer] C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 33191820ms at 2021-12-01 00:00:01.000
+2021-11-30 14:46:48,741 INFO 9324 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-30 14:46:48,741 INFO 9324 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-30 14:46:48,741 INFO 9324 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-30 19:03:08,277 INFO 6136 [Timer] C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 34011725ms at 2021-12-01 04:30:00.002
+2021-11-30 19:03:08,277 INFO 6136 [Timer] C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 17811723ms at 2021-12-01 00:00:00.000
+2021-11-30 19:03:08,278 INFO 6136 [Timer] C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 17812722ms at 2021-12-01 00:00:01.000
+2021-11-30 19:03:07,829 INFO 16516 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-30 19:03:07,829 INFO 16516 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-30 19:03:07,829 INFO 16516 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-30 19:06:23,847 INFO 17240 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-30 19:06:23,847 INFO 17240 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-30 19:06:23,847 INFO 17240 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-30 19:07:08,000 INFO 13028 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-30 19:07:08,000 INFO 13028 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-30 19:07:08,000 INFO 13028 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-30 19:19:46,359 INFO 8248 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-30 19:19:46,359 INFO 8248 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-30 19:19:46,359 INFO 8248 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-30 19:21:00,431 INFO 17264 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-30 19:21:00,431 INFO 17264 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-30 19:21:00,431 INFO 17264 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-30 19:22:21,227 INFO 9396 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-30 19:22:21,227 INFO 9396 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-30 19:22:21,227 INFO 9396 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-30 19:22:36,883 INFO 15308 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-30 19:22:36,883 INFO 15308 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-30 19:22:36,883 INFO 15308 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-30 19:23:10,169 INFO 12448 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-30 19:23:10,170 INFO 12448 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-30 19:23:10,170 INFO 12448 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-30 19:23:36,347 INFO 17116 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-30 19:23:36,347 INFO 17116 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-30 19:23:36,347 INFO 17116 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-30 19:23:37,123 INFO 16064 [Timer] C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 32782882ms at 2021-12-01 04:30:00.005
+2021-11-30 19:23:37,123 INFO 16064 [Timer] C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 16582877ms at 2021-12-01 00:00:00.000
+2021-11-30 19:23:37,124 INFO 16064 [Timer] C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 16583877ms at 2021-12-01 00:00:01.001
+2021-11-30 19:28:32,710 INFO 6936 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-30 19:28:32,710 INFO 6936 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-30 19:28:32,710 INFO 6936 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-30 19:28:46,267 INFO 12652 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-30 19:28:46,267 INFO 12652 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-30 19:28:46,267 INFO 12652 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-30 19:30:34,716 INFO 18200 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-30 19:30:34,716 INFO 18200 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-30 19:30:34,716 INFO 18200 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-30 19:32:25,118 INFO 14240 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-30 19:32:25,118 INFO 14240 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-30 19:32:25,118 INFO 14240 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-30 19:33:01,435 INFO 11584 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-30 19:33:01,435 INFO 11584 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-30 19:33:01,435 INFO 11584 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-30 19:33:03,095 INFO 17520 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-30 19:33:03,095 INFO 17520 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-30 19:33:03,095 INFO 17520 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-30 19:34:51,070 INFO 5516 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-30 19:34:51,070 INFO 5516 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-30 19:34:51,070 INFO 5516 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-30 19:36:57,617 INFO 7596 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-30 19:36:57,617 INFO 7596 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-30 19:36:57,617 INFO 7596 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-30 19:37:31,615 INFO 2284 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-30 19:37:31,615 INFO 2284 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-30 19:37:31,615 INFO 2284 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-30 19:39:59,674 INFO 17936 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-30 19:39:59,674 INFO 17936 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-30 19:39:59,675 INFO 17936 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-30 19:40:16,676 INFO 15952 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-30 19:40:16,676 INFO 15952 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-30 19:40:16,676 INFO 15952 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-30 19:41:09,227 INFO 8920 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-30 19:41:09,227 INFO 8920 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-30 19:41:09,227 INFO 8920 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-30 19:41:14,078 INFO 14856 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-30 19:41:14,078 INFO 14856 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-30 19:41:14,078 INFO 14856 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-30 19:56:08,506 INFO 2956 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-30 19:56:08,506 INFO 2956 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-30 19:56:08,506 INFO 2956 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-11-30 20:50:30,455 INFO 9240 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-11-30 20:50:30,455 INFO 9240 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-11-30 20:50:30,455 INFO 9240 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-12-01 09:03:18,352 INFO 1288 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-12-01 09:03:18,352 INFO 1288 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-12-01 09:03:18,352 INFO 1288 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-12-01 09:03:18,979 INFO 3092 [Timer] C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 70001023ms at 2021-12-02 04:30:00.002
+2021-12-01 09:03:18,979 INFO 3092 [Timer] C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 53801021ms at 2021-12-02 00:00:00.000
+2021-12-01 09:03:18,979 INFO 3092 [Timer] C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 53802021ms at 2021-12-02 00:00:01.000
+2021-12-01 09:46:59,526 INFO 13792 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-12-01 09:46:59,526 INFO 13792 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-12-01 09:46:59,526 INFO 13792 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-12-01 09:47:00,017 INFO 6488 [Timer] C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 67379985ms at 2021-12-02 04:30:00.002
+2021-12-01 09:47:00,018 INFO 6488 [Timer] C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 51179983ms at 2021-12-02 00:00:00.001
+2021-12-01 09:47:00,018 INFO 6488 [Timer] C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 51180982ms at 2021-12-02 00:00:01.000
+2021-12-01 09:54:39,894 INFO 12172 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-12-01 09:54:39,894 INFO 12172 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-12-01 09:54:39,894 INFO 12172 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-12-01 09:54:40,401 INFO 14696 [Timer] C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 66919601ms at 2021-12-02 04:30:00.002
+2021-12-01 09:54:40,401 INFO 14696 [Timer] C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 50719599ms at 2021-12-02 00:00:00.000
+2021-12-01 09:54:40,401 INFO 14696 [Timer] C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 50720599ms at 2021-12-02 00:00:01.000
+2021-12-01 10:09:01,609 INFO 396 [Timer] C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 66058393ms at 2021-12-02 04:30:00.002
+2021-12-01 10:09:01,609 INFO 396 [Timer] C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 49858391ms at 2021-12-02 00:00:00.000
+2021-12-01 10:09:01,610 INFO 396 [Timer] C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 49859391ms at 2021-12-02 00:00:01.001
+2021-12-01 10:09:01,122 INFO 14252 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-12-01 10:09:01,122 INFO 14252 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-12-01 10:09:01,122 INFO 14252 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-12-01 13:33:19,590 INFO 13924 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-12-01 13:33:19,590 INFO 13924 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-12-01 13:33:19,590 INFO 13924 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-12-01 13:33:20,101 INFO 2984 [Timer] C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 53799902ms at 2021-12-02 04:30:00.003
+2021-12-01 13:33:20,101 INFO 2984 [Timer] C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 37599899ms at 2021-12-02 00:00:00.000
+2021-12-01 13:33:20,101 INFO 2984 [Timer] C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 37600899ms at 2021-12-02 00:00:01.000
+2021-12-01 15:56:22,119 INFO 18152 [Timer] C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 45217883ms at 2021-12-02 04:30:00.002
+2021-12-01 15:56:22,120 INFO 18152 [Timer] C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 29017880ms at 2021-12-02 00:00:00.000
+2021-12-01 15:56:22,120 INFO 18152 [Timer] C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 29018880ms at 2021-12-02 00:00:01.000
+2021-12-01 15:56:21,558 INFO 18024 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-12-01 15:56:21,558 INFO 18024 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-12-01 15:56:21,558 INFO 18024 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-12-01 18:27:36,656 INFO 9456 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-12-01 18:27:36,656 INFO 9456 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-12-01 18:27:36,656 INFO 9456 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-12-01 18:27:37,222 INFO 20548 [Timer] C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 36142780ms at 2021-12-02 04:30:00.002
+2021-12-01 18:27:37,222 INFO 20548 [Timer] C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 19942778ms at 2021-12-02 00:00:00.000
+2021-12-01 18:27:37,222 INFO 20548 [Timer] C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 19943778ms at 2021-12-02 00:00:01.000
+2021-12-01 18:29:19,116 INFO 19548 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-12-01 18:29:19,116 INFO 19548 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-12-01 18:29:19,116 INFO 19548 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-12-02 08:25:01,023 INFO 6908 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-12-02 08:25:01,023 INFO 6908 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-12-02 08:25:01,023 INFO 6908 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-12-02 08:25:01,532 INFO 1744 [Timer] C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 72298471ms at 2021-12-03 04:30:00.002
+2021-12-02 08:25:01,532 INFO 1744 [Timer] C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 56098468ms at 2021-12-03 00:00:00.000
+2021-12-02 08:25:01,532 INFO 1744 [Timer] C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 56099468ms at 2021-12-03 00:00:01.000
+2021-12-02 08:32:47,660 INFO 2980 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-12-02 08:32:47,660 INFO 2980 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-12-02 08:32:47,660 INFO 2980 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-12-02 08:33:24,230 INFO 2988 [Timer] C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 71795772ms at 2021-12-03 04:30:00.002
+2021-12-02 08:33:24,231 INFO 2988 [Timer] C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 55595770ms at 2021-12-03 00:00:00.001
+2021-12-02 08:33:24,231 INFO 2988 [Timer] C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 55596769ms at 2021-12-03 00:00:01.000
+2021-12-02 08:33:23,809 INFO 7648 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-12-02 08:33:23,809 INFO 7648 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-12-02 08:33:23,809 INFO 7648 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-12-02 08:33:48,585 INFO 3304 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-12-02 08:33:48,585 INFO 3304 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-12-02 08:33:48,585 INFO 3304 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2021-12-02 08:34:48,528 INFO 1368 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2021-12-02 08:34:48,528 INFO 1368 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2021-12-02 08:34:48,528 INFO 1368 [egg-schedule]: register schedule C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-01-07 09:14:45,342 INFO 12976 [egg-schedule]: register schedule D:\项目\专项训练\人事管理系统\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-01-07 09:14:45,342 INFO 12976 [egg-schedule]: register schedule D:\项目\专项训练\人事管理系统\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-01-07 09:14:45,343 INFO 12976 [egg-schedule]: register schedule D:\项目\专项训练\人事管理系统\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-01-07 09:14:46,304 INFO 2936 [Timer] D:\项目\专项训练\人事管理系统\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 69313699ms at 2022-01-08 04:30:00.003
+2022-01-07 09:14:46,304 INFO 2936 [Timer] D:\项目\专项训练\人事管理系统\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 53113696ms at 2022-01-08 00:00:00.000
+2022-01-07 09:14:46,305 INFO 2936 [Timer] D:\项目\专项训练\人事管理系统\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 53114696ms at 2022-01-08 00:00:01.001
+2022-01-07 09:51:04,458 INFO 16708 [egg-schedule]: register schedule D:\项目\专项训练\人事管理系统\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-01-07 09:51:04,458 INFO 16708 [egg-schedule]: register schedule D:\项目\专项训练\人事管理系统\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-01-07 09:51:04,458 INFO 16708 [egg-schedule]: register schedule D:\项目\专项训练\人事管理系统\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-01-07 09:51:05,348 INFO 17348 [Timer] D:\项目\专项训练\人事管理系统\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 67134655ms at 2022-01-08 04:30:00.003
+2022-01-07 09:51:05,349 INFO 17348 [Timer] D:\项目\专项训练\人事管理系统\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 50934651ms at 2022-01-08 00:00:00.000
+2022-01-07 09:51:05,350 INFO 17348 [Timer] D:\项目\专项训练\人事管理系统\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 50935651ms at 2022-01-08 00:00:01.001
+2022-01-07 10:10:07,284 INFO 14896 [egg-schedule]: register schedule D:\项目\专项训练\人事管理系统\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-01-07 10:10:07,284 INFO 14896 [egg-schedule]: register schedule D:\项目\专项训练\人事管理系统\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-01-07 10:10:07,285 INFO 14896 [egg-schedule]: register schedule D:\项目\专项训练\人事管理系统\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-01-07 10:11:43,830 INFO 17236 [egg-schedule]: register schedule D:\项目\专项训练\人事管理系统\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-01-07 10:11:43,830 INFO 17236 [egg-schedule]: register schedule D:\项目\专项训练\人事管理系统\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-01-07 10:11:43,830 INFO 17236 [egg-schedule]: register schedule D:\项目\专项训练\人事管理系统\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-01-07 10:13:33,816 INFO 17292 [egg-schedule]: register schedule D:\项目\专项训练\人事管理系统\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-01-07 10:13:33,816 INFO 17292 [egg-schedule]: register schedule D:\项目\专项训练\人事管理系统\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-01-07 10:13:33,816 INFO 17292 [egg-schedule]: register schedule D:\项目\专项训练\人事管理系统\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-01-07 10:20:34,665 INFO 13308 [egg-schedule]: register schedule D:\项目\专项训练\人事管理系统\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-01-07 10:20:34,666 INFO 13308 [egg-schedule]: register schedule D:\项目\专项训练\人事管理系统\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-01-07 10:20:34,666 INFO 13308 [egg-schedule]: register schedule D:\项目\专项训练\人事管理系统\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-01-07 10:51:45,466 INFO 12508 [egg-schedule]: register schedule D:\项目\专项训练\人事管理系统\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-01-07 10:51:45,466 INFO 12508 [egg-schedule]: register schedule D:\项目\专项训练\人事管理系统\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-01-07 10:51:45,466 INFO 12508 [egg-schedule]: register schedule D:\项目\专项训练\人事管理系统\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-01-07 10:51:46,292 INFO 16496 [Timer] D:\项目\专项训练\人事管理系统\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 63493711ms at 2022-01-08 04:30:00.003
+2022-01-07 10:51:46,293 INFO 16496 [Timer] D:\项目\专项训练\人事管理系统\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 47293708ms at 2022-01-08 00:00:00.001
+2022-01-07 10:51:46,293 INFO 16496 [Timer] D:\项目\专项训练\人事管理系统\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 47294707ms at 2022-01-08 00:00:01.000
+2022-01-07 14:09:40,384 INFO 20976 [egg-schedule]: register schedule D:\项目\专项训练\人事管理系统\human\myappapi\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-01-07 14:09:40,384 INFO 20976 [egg-schedule]: register schedule D:\项目\专项训练\人事管理系统\human\myappapi\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-01-07 14:09:40,384 INFO 20976 [egg-schedule]: register schedule D:\项目\专项训练\人事管理系统\human\myappapi\node_modules\egg-logrotator\app\schedule\rotate_by_file.js

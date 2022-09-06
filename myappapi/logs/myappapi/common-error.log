@@ -1,0 +1,185 @@
+<<<<<<< HEAD
+2021-11-27 09:56:18,536 ERROR 1464 nodejs.ClusterClientNoResponseError: client no response in 215584ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "ClusterClientNoResponseError"
+pid: 1464
+hostname: WIN-IAS5DFHMUN8
+
+2021-11-27 10:50:11,159 ERROR 1464 nodejs.ClusterClientNoResponseError: client no response in 171388ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "ClusterClientNoResponseError"
+pid: 1464
+hostname: WIN-IAS5DFHMUN8
+
+2021-11-27 11:10:10,818 ERROR 1464 nodejs.ClusterClientNoResponseError: client no response in 119283ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "ClusterClientNoResponseError"
+pid: 1464
+hostname: WIN-IAS5DFHMUN8
+
+2021-11-27 13:17:09,928 ERROR 1464 nodejs.ClusterClientNoResponseError: client no response in 7599083ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "ClusterClientNoResponseError"
+pid: 1464
+hostname: WIN-IAS5DFHMUN8
+
+2021-11-27 16:27:35,097 ERROR 1464 nodejs.ClusterClientNoResponseError: client no response in 1177668ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "ClusterClientNoResponseError"
+pid: 1464
+hostname: WIN-IAS5DFHMUN8
+
+2021-11-27 18:04:12,114 ERROR 1464 nodejs.ClusterClientNoResponseError: client no response in 551650ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "ClusterClientNoResponseError"
+pid: 1464
+hostname: WIN-IAS5DFHMUN8
+=======
+2021-11-17 11:57:47,342 ERROR 5064 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:209:20)
+errno: -4077
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 5064
+hostname: LAPTOP-H4TDH0F6
+
+2021-11-17 12:01:26,701 ERROR 5064 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:209:20)
+errno: -4077
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 5064
+hostname: LAPTOP-H4TDH0F6
+
+2021-11-17 12:01:43,184 ERROR 5064 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:209:20)
+errno: -4077
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 5064
+hostname: LAPTOP-H4TDH0F6
+
+2021-11-17 14:34:46,670 ERROR 5064 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:209:20)
+errno: -4077
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 5064
+hostname: LAPTOP-H4TDH0F6
+
+2021-11-18 09:57:25,871 ERROR 20124 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:209:20)
+errno: -4077
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 20124
+hostname: LAPTOP-H4TDH0F6
+
+2021-11-22 22:21:26,588 ERROR 20392 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:209:20)
+errno: -4077
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 20392
+hostname: LAPTOP-H4TDH0F6
+
+2021-11-27 15:35:46,782 ERROR 7680 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:209:20)
+errno: -4077
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 7680
+hostname: LAPTOP-H4TDH0F6
+
+2021-11-27 16:29:44,840 ERROR 7680 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:209:20)
+errno: -4077
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 7680
+hostname: LAPTOP-H4TDH0F6
+
+2021-11-27 16:36:54,160 ERROR 7680 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:209:20)
+errno: -4077
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 7680
+hostname: LAPTOP-H4TDH0F6
+
+2021-11-27 21:15:02,933 ERROR 7680 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:209:20)
+errno: -4077
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 7680
+hostname: LAPTOP-H4TDH0F6
+
+2021-11-28 11:56:30,987 ERROR 11292 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:209:20)
+errno: -4077
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 11292
+hostname: LAPTOP-H4TDH0F6
+>>>>>>> master
+
+2021-12-01 18:13:46,173 ERROR 18152 nodejs.ClusterClientNoResponseError: client no response in 160693ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (C:\Users\Administrator\Desktop\VUE3\myappapi\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "ClusterClientNoResponseError"
+pid: 18152
+hostname: WIN-IAS5DFHMUN8
+
+2022-01-07 09:19:57,570 ERROR 12976 [-/::1/-/47ms POST /admin/login] nodejs.SequelizeDatabaseError: Table 'humanresources.admin' doesn't exist
+    at Query.run (D:\项目\专项训练\人事管理系统\human\myappapi\node_modules\sequelize\lib\dialects\mysql\query.js:46:25)
+    at D:\项目\专项训练\人事管理系统\human\myappapi\node_modules\sequelize\lib\sequelize.js:626:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async MySQLQueryInterface.select (D:\项目\专项训练\人事管理系统\human\myappapi\node_modules\sequelize\lib\dialects\abstract\query-interface.js:953:12)
+    at async Function.findAll (D:\项目\专项训练\人事管理系统\human\myappapi\node_modules\sequelize\lib\model.js:1754:21)
+    at async Function.findOne (D:\项目\专项训练\人事管理系统\human\myappapi\node_modules\sequelize\lib\model.js:1918:12)
+    at async LoginService.find (D:\项目\专项训练\人事管理系统\human\myappapi\app\service\login.js:8:22)
+    at async LoginController.create (D:\项目\专项训练\人事管理系统\human\myappapi\app\controller\admin\login.js:27:24)
+    at async index (D:\项目\专项训练\人事管理系统\human\myappapi\app\middleware\adminauth.js:10:13)
+    at async D:\项目\专项训练\人事管理系统\human\myappapi\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:50
+name: "SequelizeDatabaseError"
+parent: {"code":"ER_NO_SUCH_TABLE","errno":1146,"sqlState":"42S02","sqlMessage":"Table 'humanresources.admin' doesn't exist","sql":"SELECT `id`, `username`, `password` FROM `admin` AS `Admin` WHERE `Admin`.`username` = 'admin' LIMIT 1;"}
+original: {"code":"ER_NO_SUCH_TABLE","errno":1146,"sqlState":"42S02","sqlMessage":"Table 'humanresources.admin' doesn't exist","sql":"SELECT `id`, `username`, `password` FROM `admin` AS `Admin` WHERE `Admin`.`username` = 'admin' LIMIT 1;"}
+sql: "SELECT `id`, `username`, `password` FROM `admin` AS `Admin` WHERE `Admin`.`username` = 'admin' LIMIT 1;"
+parameters: undefined
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 12976
+hostname: DESKTOP-MICJP5J
+
+2022-01-07 12:02:47,528 ERROR 16496 nodejs.ClusterClientNoResponseError: client no response in 1379226ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (D:\项目\专项训练\人事管理系统\human\myappapi\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+name: "ClusterClientNoResponseError"
+pid: 16496
+hostname: DESKTOP-MICJP5J
+
